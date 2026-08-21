@@ -16,3 +16,18 @@
 4. ![img_3.png](.idea/img/img_3.png)
 5. ![img_4.png](.idea/img_4.png)
 6. ![img_5.png](.idea/img_5.png)
+
+
+依赖关系：server‑wms引入
+<dependencies>
+<!--业务服务依赖common，拿到统一返回、工具类、异常-->
+<dependency>
+<groupId>com.xxx</groupId>
+<artifactId>common</artifactId>
+</dependency>
+<!--依赖pojo拿到数据库实体-->
+<dependency>
+<groupId>com.xxx</groupId>
+<artifactId>pojo</artifactId>
+</dependency>
+</dependencies>
