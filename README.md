@@ -7,3 +7,12 @@
    2. ![img_1.png](.idea/img_1.png)
    3. 最后的效果，父亲层 包着 儿子层
    4. ![img_3.png](.idea/img_3.png)
+## 上面是在父亲项目里面直接添加各种模块，如server就是springboot，pojo就是java，common中也是放java（没有mybatis，和spirngboot的依赖）
+
+下面是使用maven
+1. ![img.png](.idea/img/img.png)
+2. ![img_1.png](.idea/img/img_1.png)
+3. ![img_2.png](.idea/img/img_2.png)
+4. ![img_3.png](.idea/img/img_3.png)
+5. ![img_4.png](.idea/img_4.png)
+6. ![img_5.png](.idea/img_5.png)
